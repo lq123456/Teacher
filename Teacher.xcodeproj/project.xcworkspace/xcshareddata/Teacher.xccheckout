@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>3FAE9B9F-9A39-4B85-AAE4-23C2B2D9191D</string>
+	<string>209E8BF2-6CA4-46E4-834D-D29FF6066DDF</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Teacher</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>6EF88A61-8474-4AA1-AE05-A9ABFCA43065</key>
-		<string>https://github.com/hugoplus/Tutor-Kit.git</string>
+		<key>F18BE52F-4CF9-4443-B5CB-D7E3E6F1FC8C</key>
+		<string>https://github.com/lq123456/Teacher.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Teacher.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>6EF88A61-8474-4AA1-AE05-A9ABFCA43065</key>
+		<key>F18BE52F-4CF9-4443-B5CB-D7E3E6F1FC8C</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/hugoplus/Tutor-Kit.git</string>
+	<string>https://github.com/lq123456/Teacher.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>6EF88A61-8474-4AA1-AE05-A9ABFCA43065</string>
+	<string>F18BE52F-4CF9-4443-B5CB-D7E3E6F1FC8C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>6EF88A61-8474-4AA1-AE05-A9ABFCA43065</string>
+			<string>F18BE52F-4CF9-4443-B5CB-D7E3E6F1FC8C</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Tutor-Kit</string>
+			<string>Teacher</string>
 		</dict>
 	</array>
 </dict>

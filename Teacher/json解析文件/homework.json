@@ -1,0 +1,85 @@
+{
+    "homework_id":"d6ce636be3894dbfb7a92e7b4124ac3c",
+    "name":{
+        "English":"Homework",
+        "Chinese":"家庭作业"
+    },
+    "creator":"Hugo",
+    "date_of_birth":"2014-04-10",
+    "description":"",
+    "content":{
+        "content":[
+            {
+                "order":"1",
+                "name":{
+                    "English":"Homework 1",
+                    "Chinese":"作业 一"
+                },
+                "type":"1102",
+                "part_id":"1",
+                "content":{
+                    "type":"HTML",
+                    "address":"part_1/activities/activity_1/activity_1.html"
+                },
+                "data":"part_1/activities/activity_1/activity_1_data.json"
+            },
+			{
+                "order":"2",
+                "name":{
+                    "English":"Homework 2",
+                    "Chinese":"作业 二"
+                },
+                "type":"1124",
+                "part_id":"2",
+                "content":{
+                    "type":"HTML",
+                    "address":"part_2/activities/activity_1/activity_1.html"
+                },
+                "data":"part_2/activities/activity_1/activity_1_data.json"
+            },
+			{
+                "order":"3",
+                "name":{
+                    "English":"Homework 3",
+                    "Chinese":"作业 三"
+                },
+                "type":"1104",
+                "part_id":"4",
+                "content":{
+                    "type":"HTML",
+                    "address":"part_4/core.html"
+                },
+                "data":"part_4/core_data.json"
+            },
+			{
+                "order":"4",
+                "name":{
+                    "English":"Homework 4",
+                    "Chinese":"作业 四"
+                },
+                "type":"1125",
+                "part_id":"5",
+                "content":{
+                    "type":"HTML",
+                    "address":"part_5_1/element_1.html"
+                },
+                "data":"part_5_1/element_1_data.json"
+            },
+			{
+                "order":"5",
+                "name":{
+                    "English":"Homework 5",
+                    "Chinese":"作业 五"
+                },
+                "type":"1104",
+                "part_id":"5",
+                "content":{
+                    "type":"HTML",
+                    "address":"part_9_1/element_1.html"
+                },
+                "data":"part_9_1/element_1_data.json"
+            }
+        ],
+        "order_type":"2"
+    }
+}

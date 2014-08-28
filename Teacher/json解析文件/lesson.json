@@ -1,0 +1,286 @@
+{
+    "lesson_id":"d6ce636be3894dbfb7a92e7b4124ac3c",
+    "name":{
+        "English":"lesson 1",
+        "Chinese":"第一课"
+    },
+    "creator":"Hugo",
+    "date_of_birth":"2014-04-10",
+    "description":"",
+    "objective":"",
+    "lesson_plan":"",
+    "parts":
+    [
+        {
+            "note" : "",  
+
+            "order":"0",
+            "name":{
+                "English":"Introduction",
+                "Chinese":"介绍"
+            },
+            "core":{
+                "type":"HTML",
+                "address":"part_0/core.html"
+            },
+			"elements":[
+                {
+                    "order":"1",
+                    "name":{
+                        "English":"Element 1",
+                        "Chinese":"要素一"
+                    },
+                    "type":"HTML",
+                    "address":"part_0_1/element_1.html"
+                }
+            ]
+        },
+        {
+            "note" : "",  
+
+            "order":"1",
+            "name":{
+                "English":"Exercise 1",
+                "Chinese":"第一节"
+            },
+            "core":{
+                "type":"HTML",
+                "address":"part_1/core.html",
+                "data":""
+            },
+            "elements":[
+                {
+                    "order":"1",
+                    "name":{
+                        "English":"Element 1",
+                        "Chinese":"要素一"
+                    },
+                    "type":"HTML",
+                    "address":"part_1_1/element_1.html"
+                },
+                {
+                    "order":"2",
+                    "name":{
+                        "English":"Element 2",
+                        "Chinese":"要素二"
+                    },
+                    "type":"HTML",
+                    "address":"part_1_2/element_2.html"
+                },
+				{
+                    "order":"3",
+                    "name":{
+                        "English":"Element 3",
+                        "Chinese":"要素三"
+                    },
+                    "type":"HTML",
+                    "address":"part_1_3/element_3.html"
+                }
+            ],
+			"activities":[
+                {
+                    "order":"1",
+                    "name":{
+                        "English":"Activity 1",
+                        "Chinese":"练习一"
+                    },
+                    "type":"1102",
+                    "content":{
+                        "type":"HTML",
+                        "address":"part_1/activities/activity_1/activity_1.html"
+                    },
+                    "data":"part_1/activities/activity_1/activity_1_data.json"
+                }
+            ]
+        },
+        {
+            "note" : "",  
+
+            "order":"2",
+            "name":{
+                "English":"Exercise 2",
+                "Chinese":"第二节"
+            },
+            "core":{
+                "type":"HTML",
+                "address":"part_2/core.html",
+                "data":""
+            },
+			"elements":[
+                {
+                    "order":"1",
+                    "name":{
+                        "English":"Element 1",
+                        "Chinese":"要素一"
+                    },
+                    "type":"HTML",
+                    "address":"part_2_1/element_1.html"
+                },
+                {
+                    "order":"2",
+                    "name":{
+                        "English":"Element 2",
+                        "Chinese":"要素二"
+                    },
+                    "type":"HTML",
+                    "address":"part_2_2/element_2.html"
+                }
+            ],
+			"activities":[
+                {
+                    "order":"1",
+                    "name":{
+                        "English":"Activity 1",
+                        "Chinese":"练习一"
+                    },
+                    "type":"1124",
+                    "content":{
+                        "type":"HTML",
+                        "address":"part_2/activities/activity_1/activity_1.html"
+                    },
+                    "data":"part_2/activities/activity_1/activity_1_data.json"
+                }
+            ]
+        },
+        {
+            "note" : "",  
+
+            "order":"3",
+            "name":{
+                "English":"Exercise 3",
+                "Chinese":"第三节"
+            },
+            "core":{
+                "type":"HTML",
+                "address":"part_3/core.html"
+            }
+        },
+        {
+            "note" : "",  
+
+            "order":"4",
+            "name":{
+                "English":"Exercise 4",
+                "Chinese":"第四节"
+            },
+            "core":{
+                "type":"HTML",
+                "address":"part_4/core.html"
+            }
+        },
+        {
+            "note" : "",  
+
+            "order":"5",
+            "name":{
+                "English":"Exercise 5",
+                "Chinese":"第五节"
+            },
+            "core":{
+                "type":"HTML",
+                "address":"part_5/core.html",
+                "data":""
+            },
+			"elements":[
+                {
+                    "order":"1",
+                    "name":{
+                        "English":"Element 1",
+                        "Chinese":"要素一"
+                    },
+                    "type":"HTML",
+                    "address":"part_5_1/element_1.html"
+                }
+            ]
+        },
+        {
+            "note" : "",  
+
+            "order":"6",
+            "name":{
+                "English":"Exercise 6",
+                "Chinese":"第六节"
+            },
+            "core":{
+                "type":"HTML",
+                "address":"part_6/core.html"
+            },
+			"elements":[
+                {
+                    "order":"1",
+                    "name":{
+                        "English":"Element 1",
+                        "Chinese":"要素一"
+                    },
+                    "type":"HTML",
+                    "address":"part_6_1/element_1.html"
+                }
+            ]
+        },
+        {
+            "note" : "",  
+
+            "order":"7",
+            "name":{
+                "English":"Exercise 7",
+                "Chinese":"第七节"
+            },
+            "core":{
+                "type":"HTML",
+                "address":"part_7/core.html"
+            }
+        },
+        {
+            "note" : "",  
+
+            "order":"8",
+            "name":{
+                "English":"Exercise 8",
+                "Chinese":"第八节"
+            },
+            "core":{
+                "type":"HTML",
+                "address":"part_8/core.html"
+            },
+			"elements":[
+                {
+                    "order":"1",
+                    "name":{
+                        "English":"Element 1",
+                        "Chinese":"要素一"
+                    },
+                    "type":"HTML",
+                    "address":"part_8_1/element_1.html"
+                }
+            ]
+        },
+		{
+            "note" : "",  
+
+            "order":"9",
+            "name":{
+                "English":"Exercise 9",
+                "Chinese":"第九节"
+            },
+            "core":{
+                "type":"HTML",
+                "address":"part_9/core.html"
+            },
+			"elements":[
+                {
+                    "order":"1",
+                    "name":{
+                        "English":"Element 1",
+                        "Chinese":"要素一"
+                    },
+                    "type":"HTML",
+                    "address":"part_9_1/element_1.html"
+                }
+            ]
+        }
+    ],
+    "glossary":"",
+    "grammar":"",
+    "sentence_pattern":"",
+    "homework":"homework.json"
+}

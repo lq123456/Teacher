@@ -9,8 +9,14 @@
 #ifndef __IPHONE_3_0
 #warning "This project uses features only available in iOS SDK 3.0 and later."
 #endif
-
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
+#import "GCDAsyncSocket.h"
+#import "UIView+CP.h"
+#import "CPTabBarViewController.h"
+#import "CPTabBarView.h"
+#import "CPTabBarButton.h"
+#define CPiWBIPAddress @"192.168.0.103"
+#define CPIWB_PORT 8060
 #endif

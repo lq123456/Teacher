@@ -7,18 +7,46 @@
 //
 
 #import "AppDelegate.h"
-
+#import "CPTabBarViewController.h"
+#import "LinViewController.h"
 @implementation AppDelegate
-
+@synthesize view=_view;
+@synthesize login;
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
+
+    self.window.backgroundColor=[UIColor colorWithPatternImage:[UIImage imageNamed:@"back_image.png"]];
+
+
+    [self loginPasswrodView];
+ 
     [self.window makeKeyAndVisible];
     return YES;
+    //    [self loginPasswrodView];
+
+}
+-(void)loginHome
+{
+    [login.view removeFromSuperview];
+    [self homeView];
 }
 
+-(void)loginPasswrodView
+{
+
+    login=[[LinViewController alloc]init];
+    login.Login=self;
+    UINavigationController *navc=[[UINavigationController alloc]initWithRootViewController:login];
+    //    //指定根视图
+    self.window.rootViewController  = navc;
+}
+-(void)homeView
+{
+    CPTabBarViewController *tab = [[CPTabBarViewController alloc] init];
+    self.window.rootViewController  = tab;
+}
 - (void)applicationWillResignActive:(UIApplication *)application
 {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
